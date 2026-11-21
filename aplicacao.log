@@ -1,0 +1,6 @@
+2026-11-20 08:12:01 [INFO] Integracao NF-e iniciada com sucesso
+2026-11-20 08:15:44 [WARN] Timeout parcial na resposta do servidor parceiro (COD-408)
+2026-11-20 08:19:10 [ERROR] Falha ao validar esquema XML do lote 884 (COD-422)
+2026-11-20 08:22:03 [ERROR] Conexao recusada pelo banco de dados de homologacao (COD-503)
+2026-11-20 08:25:19 [ERROR] Falha ao validar esquema XML do lote 885 (COD-422)
+2026-11-20 08:30:00 [INFO] Rotina de reprocessamento concluida
